@@ -1,0 +1,10 @@
+let numero1 = prompt("Ingrese numero A");
+let numero2 = prompt("Ingrese numero B");
+let suma = numero1*1 + numero2*1;
+let resta = numero1 - numero2;
+let mult = numero1 * numero2;
+let div = numero1 / numero2;
+console.log("Suma : "+suma);
+console.log("Resta : "+resta);
+console.log("Multiplicacion : "+mult);
+console.log("Division : "+div);
